@@ -1,0 +1,5 @@
+Player URL:
+https://verszhighschool.github.io/player/?list=https://raw.githubusercontent.com/verszhighschool/ea0e481fb9718b1f/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/verszhighschool/ea0e481fb9718b1f/refs/heads/master/github_master.m3u8
